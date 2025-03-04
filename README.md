@@ -8,7 +8,10 @@ It includes Raygui.h for the UI and https://github.com/nlohmann/json for the imp
 
 To use it, add some 3D objects and textures to the "resources/" folder
 
-Not yet in version 1.0, so the minimal version is not ready.
+Not yet in version 1.0, so the minimal version is not ready, only to move/rotate/scale objects around.
+
+---
+
 TODO:
 - Import/export functionality
 - Fixings
